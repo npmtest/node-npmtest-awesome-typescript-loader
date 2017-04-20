@@ -1,4 +1,7 @@
-# test coverage for  [awesome-typescript-loader (v3.1.2)](https://github.com/s-panferov/awesome-typescript-loader)  [![npm package](https://img.shields.io/npm/v/npmtest-awesome-typescript-loader.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-awesome-typescript-loader) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-awesome-typescript-loader.svg)](https://travis-ci.org/npmtest/node-npmtest-awesome-typescript-loader)
+# npmtest-awesome-typescript-loader
+
+#### basic test coverage for  [awesome-typescript-loader (v3.1.2)](https://github.com/s-panferov/awesome-typescript-loader)  [![npm package](https://img.shields.io/npm/v/npmtest-awesome-typescript-loader.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-awesome-typescript-loader) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-awesome-typescript-loader.svg)](https://travis-ci.org/npmtest/node-npmtest-awesome-typescript-loader)
+
 #### Awesome TS loader for webpack
 
 [![NPM](https://nodei.co/npm/awesome-typescript-loader.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/awesome-typescript-loader)
